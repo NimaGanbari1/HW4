@@ -12,6 +12,7 @@
 //#include "BANK.h"
 using namespace std;
 
+
 class bank;
 ///////////////////////////////////
 // class error
